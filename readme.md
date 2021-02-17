@@ -1,14 +1,12 @@
-**Ayomi**
+#### **Ayomi**
 
 A login register and profile management app built with django and bootsrap 
 
-**stack**
- django
- bootsrap
- docker(dockerfile docker compose)
+**stack:**
+django,bootsrap,docker(dockerfile docker compose)
 
-**How to**
- 
+**How to:**
+
 ***to build the image***
 
   go to the root folder and ``docker compose build ``
