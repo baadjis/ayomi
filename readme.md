@@ -5,7 +5,7 @@ A login register and profile management app built with django and bootsrap
 **stack:**
 django,bootsrap,docker(dockerfile docker compose)
 
-**How to:**
+**Usage:**
 
 ***to build the image***
 
