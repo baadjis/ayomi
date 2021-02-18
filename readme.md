@@ -21,7 +21,7 @@ run these commands:
 
 ``docker-compose run  python manage.py migrate``
 
-  ``docker-compose run  Python manage.py makemigrations``
+``docker-compose run  Python manage.py makemigrations``
 
 
 ***to create a superuser***
