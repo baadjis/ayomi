@@ -18,6 +18,7 @@ run  ``docker-compose up``
 ***to migrate***
 
 run these commands:
+
 ``docker-compose run  python manage.py migrate``
 
   ``docker-compose run  Python manage.py makemigrations``
