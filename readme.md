@@ -9,11 +9,11 @@ django,bootsrap,docker(dockerfile docker compose)
 
 ***to build the image***
 
-  go to the root folder and ``docker compose build ``
+  go to the root folder and ``docker-compose build ``
 
 ***to start the service***
 
-run  ``docker compose up``
+run  ``docker-compose up``
 
 ***to migrate***
 
